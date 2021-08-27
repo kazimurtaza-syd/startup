@@ -1,1 +1,1 @@
-https://github.com/kazimurtaza-syd/startup.git
+https://github.com/kazimurtaza-syd/startup
